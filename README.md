@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm María Soledad</h1>
-<h3 align="left">A Fullstack Developer and UI/UX Designer</h3>
+<h3 align="left">A Full Stack Developer and UI/UX Designer</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
