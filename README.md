@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm María Soledad</h1>
-<h3 align="left">A Full Stack Developer and UI/UX Designer</h3>
+<h3 align="left">A Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React and User Interface Design**
+- 🌱 I’m currently learning **React and Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
